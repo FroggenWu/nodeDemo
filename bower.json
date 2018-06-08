@@ -1,0 +1,22 @@
+{
+  "name": "NodeJs Demo",
+  "description": "this is a nodeJs demo.",
+  "main": "",
+  "keywords": [
+    "nodeJs"
+  ],
+  "authors": [
+    "Froggen Wu"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
